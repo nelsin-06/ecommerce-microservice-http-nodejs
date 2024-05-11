@@ -1,0 +1,11 @@
+# Directories
+__pycache__/
+db-storage/
+.vscode/
+.pytest_cache/
+node_modules
+**/.node_modules
+**/package-lock.json
+# Files
+*pyc
+.directory
