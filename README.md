@@ -32,7 +32,7 @@ ecommerce-service: 8000
 delivery-service: 8001
 
 ## Architecture
-Se adjunto el archivo "system diagram" a este repositorio.
+Se adjunto el archivo "system diagram.png" a este repositorio.
 
 ## Endpoints/API
 
