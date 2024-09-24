@@ -1,6 +1,6 @@
 # Microservicios de Marketplace Ecommerce y Delivery Service
 
-Este proyecto consiste en el diseño y desarrollo de dos microservicios interconectados para gestionar un marketplace de ecommerce y la logística de envíos. El microservicio de ecommerce permite a los usuarios administradores crear, editar, eliminar y listar tiendas, así como gestionar productos y órdenes de compra. Por otro lado, el microservicio de envíos se encarga de gestionar los envíos asociados a las órdenes de compra, permitiendo la creación, edición y visualización de envíos, así como el seguimiento de su estado. Ambos microservicios están desarrollados NodeJS con Express, y se ejecutan en contenedores Docker para facilitar su despliegue y portabilidad.
+Este proyecto consiste en el diseño y desarrollo de dos microservicios http interconectados para gestionar un marketplace de ecommerce y la logística de envíos. El microservicio de ecommerce permite a los usuarios administradores crear, editar, eliminar y listar tiendas, así como gestionar productos y órdenes de compra. Por otro lado, el microservicio de envíos se encarga de gestionar los envíos asociados a las órdenes de compra, permitiendo la creación, edición y visualización de envíos, así como el seguimiento de su estado. Ambos microservicios están desarrollados NodeJS con Express, y se ejecutan en contenedores Docker para facilitar su despliegue y portabilidad.
 
 
 ## Tecnologías utilizadas
